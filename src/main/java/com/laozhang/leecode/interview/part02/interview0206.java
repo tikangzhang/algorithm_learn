@@ -1,4 +1,4 @@
-package com.laozhang.leecode.interview;
+package com.laozhang.leecode.interview.part02;
 
 import com.laozhang.leecode.interview.common.ListNode;
 import org.junit.jupiter.api.Assertions;
